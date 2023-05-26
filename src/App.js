@@ -4,7 +4,7 @@ import Card from "./Card"
 function App() {
    return (
       <div className="App">
-         <Card title="Call Us">
+         <Card title="Call Us" description="We are lonely">
             <h2>Phone Details</h2>
             <p>
                Phone: <a href="tel:+19175555555">+1 (917) 555-5555</a>
